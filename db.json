@@ -1,0 +1,625 @@
+ {
+    "pictures": [
+        {
+            "img": "../img1.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img2.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img3.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img4.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img5.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img6.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img7.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img8.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img9.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img10.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img11.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img12.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img13.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img14.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img15.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img16.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img17.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img18.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img19.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img20.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img21.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img22.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img23.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img24.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img25.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img26.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img27.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img28.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img29.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img30.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img31.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img32.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img33.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img34.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img35.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img36.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img37.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img38.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img39.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img40.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img41.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img42.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img43.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img44.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img45.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img46.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img47.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img48.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img49.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img50.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img51.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img52.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img53.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img54.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img55.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img56.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img57.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img58.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img59.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img60.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img61.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img62.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img63.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img64.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img65.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img66.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img67.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img68.jpg",
+            "name": "Сундучник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img69.jpg",
+            "name": "Булочник. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        }
+    ]
+}
