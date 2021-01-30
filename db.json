@@ -20,21 +20,21 @@
         },
         {
             "img": "../img3.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
+            "name": "Купец с купчихой",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
             "technics": "oil",
-            "year": "1920"
+            "year": "1914"
         },
         {
             "img": "../img41.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
+            "name": "Пасхальный обряд (Христосование)",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
             "technics": "oil",
-            "year": "1920"
+            "year": "1916"
         },
         {
             "img": "../img51.jpg",
