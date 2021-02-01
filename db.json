@@ -1,4 +1,4 @@
- {
+{
     "pictures": [
         {
             "img": "../img1.jpg",
@@ -28,7 +28,7 @@
             "year": "1914"
         },
         {
-            "img": "../img41.jpg",
+            "img": "../img4.jpg",
             "name": "Пасхальный обряд (Христосование)",
             "work": "painting",
             "plot": "portrait",
@@ -37,8 +37,8 @@
             "year": "1916"
         },
         {
-            "img": "../img51.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
+            "img": "../img5.jpg",
+            "name": "Трактирщик. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -46,7 +46,124 @@
             "year": "1920"
         },
         {
-            "img": "../img61.jpg",
+            "img": "../img6.jpg",
+            "name": "Портрет Степана Лукича Никольского",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1901"
+        },
+        {
+            "img": "../img7.jpg",
+            "name": "Монахиня",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1901"
+        },
+        {
+            "img": "../img8.jpg",
+            "name": "Портрет артистки Т. В. Чижовой",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1924"
+        },
+        {
+            "img": "../img9.jpg",
+            "name": "Портрет А. Н. Протасовой",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1900"
+        },
+        {
+            "img": "../img10.jpg",
+            "name": "На террасе",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1906"
+        },
+        {
+            "img": "../img10.jpg",
+            "name": "На террасе",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1906"
+        },
+        {
+            "img": "../img9.jpg",
+            "name": "Портрет А. Н. Протасовой",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1900"
+        },
+        {
+            "img": "../img8.jpg",
+            "name": "Портрет артистки Т. В. Чижовой",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1924"
+        },
+        {
+            "img": "../img7.jpg",
+            "name": "Монахиня",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1901"
+        },
+        {
+            "img": "../img6.jpg",
+            "name": "Портрет Степана Лукича Никольского",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1901"
+        },
+        {
+            "img": "../img5.jpg",
+            "name": "Трактирщик. Из серии \"Русские типы\"",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1920"
+        },
+        {
+            "img": "../img4.jpg",
+            "name": "Пасхальный обряд (Христосование)",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1916"
+        },
+        {
+            "img": "../img3.jpg",
+            "name": "Купец с купчихой",
+            "work": "painting",
+            "plot": "portrait",
+            "style": "realism",
+            "technics": "oil",
+            "year": "1914"
+        },
+        {
+            "img": "../img2.jpg",
             "name": "Булочник. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
@@ -55,125 +172,8 @@
             "year": "1920"
         },
         {
-            "img": "../img71.jpg",
+            "img": "../img1.jpg",
             "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img81.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img91.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-     {
-            "img": "../img101.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img11.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img12.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img13.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img14.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img15.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img16.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img17.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img18.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-     {
-            "img": "../img19.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1920"
-        },
-        {
-            "img": "../img20.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
