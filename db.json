@@ -6,25 +6,25 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
-            "year": "1920"
+            "technique": "oil",
+            "year": "1899"
         },
         {
             "img": "../img2.jpg",
             "name": "Булочник. Из серии \"Русские типы\"",
-            "work": "painting",
+            "work": "illustration",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
-            "year": "1920"
+            "technique": "oil",
+            "year": "1901"
         },
         {
             "img": "../img3.jpg",
             "name": "Купец с купчихой",
-            "work": "painting",
+            "work": "theatre decorative",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1914"
         },
         {
@@ -33,43 +33,43 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1916"
         },
         {
             "img": "../img5.jpg",
             "name": "Трактирщик. Из серии \"Русские типы\"",
-            "work": "painting",
+            "work": "graphics",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
-            "year": "1920"
+            "technique": "oil",
+            "year": "1913"
         },
         {
             "img": "../img6.jpg",
             "name": "Портрет Степана Лукича Никольского",
             "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
+            "plot": "still life",
+            "style": "socialist realism",
+            "technique": "oil",
             "year": "1901"
         },
         {
             "img": "../img7.jpg",
             "name": "Монахиня",
             "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
+            "plot": "interior",
+            "style": "primitivism",
+            "technique": "oil",
             "year": "1901"
         },
         {
             "img": "../img8.jpg",
             "name": "Портрет артистки Т. В. Чижовой",
-            "work": "painting",
+            "work": "poster",
             "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
+            "style": "art nouveau",
+            "technique": "oil",
             "year": "1924"
         },
         {
@@ -77,44 +77,44 @@
             "name": "Портрет А. Н. Протасовой",
             "work": "painting",
             "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
+            "style": "surrealism",
+            "technique": "oil",
             "year": "1900"
         },
         {
             "img": "../img10.jpg",
             "name": "На террасе",
-            "work": "painting",
+            "work": "decorative-applied",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "charcoal",
             "year": "1906"
         },
         {
             "img": "../img10.jpg",
             "name": "На террасе",
             "work": "painting",
-            "plot": "portrait",
+            "plot": "architecture",
             "style": "realism",
-            "technics": "oil",
+            "technique": "ink",
             "year": "1906"
         },
         {
             "img": "../img9.jpg",
             "name": "Портрет А. Н. Протасовой",
             "work": "painting",
-            "plot": "portrait",
+            "plot": "religious scene",
             "style": "realism",
-            "technics": "oil",
+            "technique": "painting pen",
             "year": "1900"
         },
         {
             "img": "../img8.jpg",
             "name": "Портрет артистки Т. В. Чижовой",
-            "work": "painting",
+            "work": "sculpture",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1924"
         },
         {
@@ -123,7 +123,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1901"
         },
         {
@@ -132,7 +132,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1901"
         },
         {
@@ -141,7 +141,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1920"
         },
         {
@@ -150,16 +150,16 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "water colour",
             "year": "1916"
         },
         {
             "img": "../img3.jpg",
             "name": "Купец с купчихой",
-            "work": "painting",
+            "work": "print",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "gouache",
             "year": "1914"
         },
         {
@@ -168,7 +168,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1920"
         },
         {
@@ -177,7 +177,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1920"
         }
     ]
