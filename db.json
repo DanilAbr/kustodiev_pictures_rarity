@@ -2,7 +2,7 @@
     "pictures": [
         {
             "img": "../img1.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
+            "name": "1Сундучник. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -11,7 +11,7 @@
         },
         {
             "img": "../img2.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
+            "name": "2Булочник. Из серии \"Русские типы\"",
             "work": "illustration",
             "plot": "portrait",
             "style": "realism",
@@ -20,7 +20,7 @@
         },
         {
             "img": "../img3.jpg",
-            "name": "Купец с купчихой",
+            "name": "3Купец с купчихой",
             "work": "theatre decorative",
             "plot": "portrait",
             "style": "realism",
@@ -29,7 +29,7 @@
         },
         {
             "img": "../img4.jpg",
-            "name": "Пасхальный обряд (Христосование)",
+            "name": "4Пасхальный обряд (Христосование)",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -38,7 +38,7 @@
         },
         {
             "img": "../img5.jpg",
-            "name": "Трактирщик. Из серии \"Русские типы\"",
+            "name": "5Трактирщик. Из серии \"Русские типы\"",
             "work": "graphics",
             "plot": "portrait",
             "style": "realism",
@@ -47,7 +47,7 @@
         },
         {
             "img": "../img6.jpg",
-            "name": "Портрет Степана Лукича Никольского",
+            "name": "6Портрет Степана Лукича Никольского",
             "work": "painting",
             "plot": "still life",
             "style": "socialist realism",
@@ -56,7 +56,7 @@
         },
         {
             "img": "../img7.jpg",
-            "name": "Монахиня",
+            "name": "7Монахиня",
             "work": "painting",
             "plot": "interior",
             "style": "primitivism",
@@ -65,7 +65,7 @@
         },
         {
             "img": "../img8.jpg",
-            "name": "Портрет артистки Т. В. Чижовой",
+            "name": "8Портрет артистки Т. В. Чижовой",
             "work": "poster",
             "plot": "portrait",
             "style": "art nouveau",
@@ -74,7 +74,7 @@
         },
         {
             "img": "../img9.jpg",
-            "name": "Портрет А. Н. Протасовой",
+            "name": "9Портрет А. Н. Протасовой",
             "work": "painting",
             "plot": "portrait",
             "style": "surrealism",
@@ -83,7 +83,7 @@
         },
         {
             "img": "../img10.jpg",
-            "name": "На террасе",
+            "name": "10На террасе",
             "work": "decorative-applied",
             "plot": "portrait",
             "style": "realism",
@@ -92,7 +92,7 @@
         },
         {
             "img": "../img10.jpg",
-            "name": "На террасе",
+            "name": "11На террасе",
             "work": "painting",
             "plot": "architecture",
             "style": "realism",
@@ -101,7 +101,7 @@
         },
         {
             "img": "../img9.jpg",
-            "name": "Портрет А. Н. Протасовой",
+            "name": "12Портрет А. Н. Протасовой",
             "work": "painting",
             "plot": "religious scene",
             "style": "realism",
@@ -110,7 +110,7 @@
         },
         {
             "img": "../img8.jpg",
-            "name": "Портрет артистки Т. В. Чижовой",
+            "name": "13Портрет артистки Т. В. Чижовой",
             "work": "sculpture",
             "plot": "portrait",
             "style": "realism",
@@ -119,7 +119,7 @@
         },
         {
             "img": "../img7.jpg",
-            "name": "Монахиня",
+            "name": "14Монахиня",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -128,7 +128,7 @@
         },
         {
             "img": "../img6.jpg",
-            "name": "Портрет Степана Лукича Никольского",
+            "name": "15Портрет Степана Лукича Никольского",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -137,7 +137,7 @@
         },
         {
             "img": "../img5.jpg",
-            "name": "Трактирщик. Из серии \"Русские типы\"",
+            "name": "16Трактирщик. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -146,7 +146,7 @@
         },
         {
             "img": "../img4.jpg",
-            "name": "Пасхальный обряд (Христосование)",
+            "name": "17Пасхальный обряд (Христосование)",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -155,7 +155,7 @@
         },
         {
             "img": "../img3.jpg",
-            "name": "Купец с купчихой",
+            "name": "18Купец с купчихой",
             "work": "print",
             "plot": "portrait",
             "style": "realism",
@@ -164,7 +164,7 @@
         },
         {
             "img": "../img2.jpg",
-            "name": "Булочник. Из серии \"Русские типы\"",
+            "name": "19Булочник. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
@@ -173,7 +173,7 @@
         },
         {
             "img": "../img1.jpg",
-            "name": "Сундучник. Из серии \"Русские типы\"",
+            "name": "20Сундучник. Из серии \"Русские типы\"",
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
